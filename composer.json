@@ -1,5 +1,5 @@
 {
-    "name": "custom/admincrud",
+    "name": "library/admincrud",
     "description": "ADMIN-CRUD",
     "type": "project",
     "license": "MIT",
