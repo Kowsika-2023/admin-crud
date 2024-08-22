@@ -1,5 +1,5 @@
 {
-    "name": "plugin/admincrud",
+    "name": "director/bundle",
     "description": "ADMIN-CRUD",
     "type": "project",
     "license": "MIT",
